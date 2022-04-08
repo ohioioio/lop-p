@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lop-p
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
