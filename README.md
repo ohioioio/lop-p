@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @lop-p
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+# Hey!
+I'm Lop, and I am a horrible coder.
+
+g
